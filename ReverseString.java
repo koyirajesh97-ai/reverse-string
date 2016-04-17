@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class ReverseString {
+// todo: optimize
     public static void main(String[] args){
     // moved code around
         Scanner sc = new Scanner(System.in);
