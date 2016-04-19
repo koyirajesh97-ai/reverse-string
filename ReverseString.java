@@ -6,6 +6,7 @@ public class ReverseString {
     // moved code around
         Scanner sc = new Scanner(System.in);
         System.out.println("enter string");
+        // testing
         String str = sc.nextLine();
         String rev = "";
         for(int i=str.length()-1;i>=0;i--){
