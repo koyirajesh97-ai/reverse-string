@@ -14,6 +14,7 @@ public class ReverseString {
             rev += str.charAt(i);
         }
         System.out.println("reversed string: " + rev);
+        // note: only positive numbers
         sc.close();
     }
 }
