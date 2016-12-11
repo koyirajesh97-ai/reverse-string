@@ -6,6 +6,7 @@ public class ReverseString {
     public static void main(String[] args){
     // moved code around
         Scanner sc = new Scanner(System.in);
+        // can be optimized later
         // todo: add unit test
         System.out.println("enter string");
         // testing
